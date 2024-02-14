@@ -6,3 +6,4 @@ dependencies:
   - xeus-python
   - requests
   - ipycanvas
+  - pyjs=1.6
